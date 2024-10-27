@@ -1,5 +1,7 @@
 # Fake News Detection Telegram Bot
 
+@title_detector_bot
+
 This is a **Fake News Detection Telegram Bot** that utilizes machine learning to classify news articles as either real or fake. Users can interact with the bot by sending news text or links, and the bot will analyze the content and provide a prediction based on a trained machine learning model. The bot uses natural language processing (NLP) techniques to preprocess the text and determine whether the provided information is likely to be fake or real.
 
 ## Features
